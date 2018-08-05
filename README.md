@@ -4,4 +4,4 @@ Valuation Framework
 Derivatives and Portfolio Valuation  
 Volatility Options  
 
-## Python 2.7 is used for Analytics
+## Python 2.7 is used for Computation & Analytics
