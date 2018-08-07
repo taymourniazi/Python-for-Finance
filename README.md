@@ -27,3 +27,8 @@ Guided User Ineterface for Extended Short Rate Class below:
 Guided User Ineterface for CASH FLOW SERIES CLASS WITH GUI below:  
 
 ![cash_flow_series_gui](https://user-images.githubusercontent.com/30389323/43773198-62309ea0-9a5e-11e8-907f-94fbce795e02.PNG)  
+
+
+## Cash Flow Series Result GUI
+
+![cahs flow series result gui](https://user-images.githubusercontent.com/30389323/43773646-d2917498-9a5f-11e8-89d5-205b3f8920e4.PNG)
