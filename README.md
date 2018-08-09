@@ -41,11 +41,14 @@ Guided User Ineterface for CASH FLOW SERIES CLASS WITH GUI below:
 Schema design for SQLite3   
 
 ### End GUI
-
+#### Home Page
 ![tradechat1](https://user-images.githubusercontent.com/30389323/43886724-1c5c5f9e-9bd6-11e8-928f-3ba4b248d0cf.PNG)  
   
+#### Register Page  
 ![tradechat2](https://user-images.githubusercontent.com/30389323/43886942-b2f4a5d8-9bd6-11e8-81fd-56476fa5ebb9.PNG)  
   
+#### Chat Page  
 ![tradechat3](https://user-images.githubusercontent.com/30389323/43886946-b97a1e1a-9bd6-11e8-83c8-cf15393aa5e3.PNG)  
-  
+    
+#### Posts with time and user name
 ![tradechat4](https://user-images.githubusercontent.com/30389323/43886956-c38a24ea-9bd6-11e8-836a-218ff990ffe1.PNG)
