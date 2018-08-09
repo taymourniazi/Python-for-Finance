@@ -37,6 +37,8 @@ Guided User Ineterface for CASH FLOW SERIES CLASS WITH GUI below:
 # TradeChat Room  
 ## Allow Users to sign in and chat with market brokers
 ## A simple example for a web-based chat room based on Flask and SQLite3.
+Usage From Command Line  
+taymour$- python tradechat.py  
 ### table.sql  
 Schema design for SQLite3    
 
