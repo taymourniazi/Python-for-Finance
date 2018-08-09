@@ -38,7 +38,7 @@ Guided User Ineterface for CASH FLOW SERIES CLASS WITH GUI below:
 ## Allow Users to sign in and chat with market brokers
 ## A simple example for a web-based chat room based on Flask and SQLite3.
 ### table.sql  
-Schema design for SQLite3   
+Schema design for SQLite3    
 
 ### End GUI
 #### Home Page
