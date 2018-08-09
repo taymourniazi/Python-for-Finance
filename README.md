@@ -32,3 +32,20 @@ Guided User Ineterface for CASH FLOW SERIES CLASS WITH GUI below:
 ## Cash Flow Series Result GUI
 
 ![cahs flow series result gui](https://user-images.githubusercontent.com/30389323/43773646-d2917498-9a5f-11e8-89d5-205b3f8920e4.PNG)
+  
+    
+# TradeChat Room  
+## Allow Users to sign in and chat with market brokers
+## A simple example for a web-based chat room based on Flask and SQLite3.
+### table.sql  
+Schema design for SQLite3   
+
+### End GUI
+
+![tradechat1](https://user-images.githubusercontent.com/30389323/43886724-1c5c5f9e-9bd6-11e8-928f-3ba4b248d0cf.PNG)  
+  
+![tradechat2](https://user-images.githubusercontent.com/30389323/43886942-b2f4a5d8-9bd6-11e8-81fd-56476fa5ebb9.PNG)  
+  
+![tradechat3](https://user-images.githubusercontent.com/30389323/43886946-b97a1e1a-9bd6-11e8-83c8-cf15393aa5e3.PNG)  
+  
+![tradechat4](https://user-images.githubusercontent.com/30389323/43886956-c38a24ea-9bd6-11e8-836a-218ff990ffe1.PNG)
